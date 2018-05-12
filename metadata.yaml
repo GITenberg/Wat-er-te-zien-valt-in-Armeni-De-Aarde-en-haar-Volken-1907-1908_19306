@@ -1,0 +1,28 @@
+_repo: Wat-er-te-zien-valt-in-Armeni-De-Aarde-en-haar-Volken-1907-1908_19306
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dolens, Noël
+    alias: Dolens, Noel
+    gutenberg_agent_id: '8586'
+    url: http://www.gutenberg.org/2009/agents/8586
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2006-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19306'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Armenia -- Description and travel'
+- !lcc 'DS'
+title: 'Wat er te zien valt in Armenië
+
+  De Aarde en haar Volken, 1907-1908'
+url: http://www.gutenberg.org/ebooks/19306
